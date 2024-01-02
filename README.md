@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tushar-Siddik
-- 👀 I’m interested in Web-developing and Coding
-- 🌱 I’m currently learning Python and Javascript framework
+- 👀 I’m interested in Data Science with Python
+- 🌱 I’m currently practicing Python
 - 💞️ I’m looking to collaborate on... 
 - 📫 How to reach me ...
 
