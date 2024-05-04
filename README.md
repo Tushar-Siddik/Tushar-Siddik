@@ -23,7 +23,7 @@ Hi, I'm __Md. Siddiqur Rahman__, a passionate data science enthusiast with a kee
 - **Project Management**: Skilled in Agile methodologies and project coordination.
 
 ## Work Experience
-### Mentorness Internship Program
+### Mentorness ML Internship Program
 - **Company**: Mentorness
 - **Duration**: April, 2024 - May, 2024
 - **Responsibilities**:
