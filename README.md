@@ -29,8 +29,7 @@ Hi, I'm __Md. Siddiqur Rahman__, a passionate data science enthusiast with a kee
 - **Responsibilities**:
   - Wrote and presented article on specific machine learning topic.
   - Predicted and evaluated the class of mobile price.
-  - Participated in code reviews and implemented feedback to improve code quality.
-  - Created automated tests to ensure software reliability.
+  - Analyzed ICC Men's T20 Cricket World Cup Dataset.
 
 
 ## 📚 Projects
