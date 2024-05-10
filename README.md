@@ -1,13 +1,15 @@
-# Data Science Enthusiast 💻🔬
+# Data Science Enthusiast 💻
 
 Hi, I'm __Md. Siddiqur Rahman__, a passionate data science enthusiast with a keen interest in uncovering insights from complex datasets. I enjoy working on end-to-end data science projects, from data collection and cleaning to modeling and visualization. My focus is on creating data-driven solutions that make a meaningful impact.
 
 ## 🧠 Skills & Expertise
 ### Languages & Tools
-- **Programming Languages**: Python, SQL, HTML, CSS
+- **Languages**: Python, HTML, CSS
 - **Data Analysis**: pandas, numpy, SQL, Excel
+- **Database**: SQLite, MongoDB
+- **Version control**: Git, GitHUb
 - **Data Visualization**: matplotlib, seaborn, Plotly
-- **Machine Learning**: scikit-learn
+- **Machine Learning**: scikit-learn, statsmodels, linearmodels
 - **IDE**: VS code, Jupyter notebook, Kaggle
 - **Data Engineering**: ETL
 - **More Tools**: Word, Powerpoint
@@ -23,20 +25,23 @@ Hi, I'm __Md. Siddiqur Rahman__, a passionate data science enthusiast with a kee
 - **Project Management**: Skilled in Agile methodologies and project coordination.
 
 ## Work Experience
-### Mentorness ML Internship Program
+### Machine Learning Internship
 - **Company**: Mentorness
 - **Duration**: April, 2024 - May, 2024
+- **Credential**: [Certificate](https://github.com/Tushar-Siddik/mentorness/blob/main/Md.%20Siddiqur%20Rahman_Certificate.pdf)
 - **Responsibilities**:
-  - Wrote and presented article on specific machine learning topic.
-  - Predicted and evaluated the class of mobile price.
-  - Analyzed ICC Men's T20 Cricket World Cup Dataset.
-
+  - Authored and presented a technical article on a machine learning topic to internal and external stakeholders.
+  - Built and evaluated a machine learning model to predict mobile phone price classes, using data preprocessing, feature engineering, and model assessment techniques.
+  - Analyzed the ICC Men's T20 Cricket World Cup dataset, creating visualizations to identify and present key insights.
+  - Deployed a machine learning model to a production environment, ensuring functionality and reliability. Collaborated with stakeholders to validate the deployment process.
 
 ## 📚 Projects
 ### 1. **Mobile Price Classification**
-In this project, the task was to build a predictive model that can accurately classify mobile phones into predefined price ranges based on various attributes such as battery power, camera features, memory, connectivity options, and more.
-
-I have built 5 distinct models: *Logistic regression*, *support vector classifier*, *decision tree classifier*, *random forest classifier*, and *gradient boosting classifier*. I did hyperparameter tuning and cross validation with grid search. Then I have deployed the best performing model with Streamlit. The best performing model shows the __98% accuracy__.
+- Built a predictive model to classify mobile phones into predefined price ranges, using attributes such as battery power, camera features, memory, connectivity options, and more.
+- Developed five distinct models: Logistic Regression, Support Vector Classifier, Decision Tree Classifier, Random Forest Classifier, and Gradient Boosting Classifier.
+- Conducted hyperparameter tuning and cross-validation using grid search to optimize model performance.
+- Deployed the best-performing model, which achieved a __98%__ accuracy rate, using Streamlit for interactive visualization and user interaction.
+- Created an intuitive interface to allow users to interact with the model, providing real-time predictions and insights based on specific mobile phone attributes.
 
 - **Tech Stack**: Python, pandas, scikit-leran, matplotlib, streamlit
 - **Key Learnings**: Data preprocessing, feature engineering, model evaluation, data analysis, data visualization
@@ -45,7 +50,10 @@ I have built 5 distinct models: *Logistic regression*, *support vector classifie
 - **Jupyter Notebook**: [Link to Kaggle](https://www.kaggle.com/code/tusharsiddik/mobile-price-classification)
 
 ### 2. **ICC Men's T20 Cricket 2022 Data Analysis**
-In this project, I analyzed the whole dataset of the event to find insights. I also visualized my analysis to understand different metrucs and features. Finally, it is deployed.
+- Analyzed a comprehensive dataset from a major cricket tournament, focusing on batting and bowling statistics.
+- Identified and explained key batting metrics, including most runs scored, highest strike rates, and best batting averages, across different teams, innings, and individual players.
+- Evaluated key bowling metrics, such as most wickets taken, lowest economy rates, and lowest average runs conceded, contextualizing the data by innings, teams, and individual bowlers.
+- Conducted in-depth analysis of additional features, including most boundaries hit, to provide comprehensive insights into the tournament's performance trends.
 
 - **Tech Stack**: Python, pandas, plotly, matplotlib, dash, gunicorn
 - **Key Learnings**: Data preprocessing, Data Analysis, Data Visualization
@@ -57,7 +65,7 @@ In this project, I analyzed the whole dataset of the event to find insights. I a
 - **Bachelor of Science in Economics**
   - **University**: __Jahangirnagar University__
   - **Graduation Year**: 2021
-  - **Relevant Coursework**: Data Visualization, Statistics, Linear Algebra, Calculus
+  - **Relevant Coursework**: Econometrics, Data Visualization, Statistics, Linear Algebra, Calculus
 
 - **Certification in Data Science**
   - **Organization**: World Quant University
