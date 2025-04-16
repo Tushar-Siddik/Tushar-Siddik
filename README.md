@@ -62,10 +62,23 @@ Hi, I'm __Md. Siddiqur Rahman__, a passionate data science enthusiast with a kee
 - **Jupyter Notebook**: [Link to Kaggle](https://www.kaggle.com/code/tusharsiddik/icc-t20-cwc-2022-super12)
 
 ## 🎓 Education
+- **Masters of Science in Economics**
+  - **University**: __Jahangirnagar University__
+  - **Graduation Year**: 2022 (Exam held on November, 2024)
+  - **CGPA**: 3.98 out of 4.00
+  - **Relevant Coursework**: Econometrics, Data Visualization, Statistics, Linear Algebra, Calculus
+
 - **Bachelor of Science in Economics**
   - **University**: __Jahangirnagar University__
-  - **Graduation Year**: 2021
+  - **Graduation Year**: 2021 (Exam held on 2023)
+  - **CGPA**: 3.25 out of 4.00
   - **Relevant Coursework**: Econometrics, Data Visualization, Statistics, Linear Algebra, Calculus
+
+- **Certification in Artificial Intelligence**
+  - **Organization**: World Quant University
+  - **Completion Year**: 2025
+  - **Description**: A comprehensive artificial intelligence certification covering hands-on experience with six end-to-end PyTorch computer vision projects, covering deep learning models, transfer learning, and ethical challenges in real-world AI applications.
+  - **Credential**: [Credly Badge](https://www.credly.com/badges/0c957ff5-8fe8-4e7a-85f7-b611020fa6f2/public_url)
 
 - **Certification in Data Science**
   - **Organization**: World Quant University
